@@ -50,16 +50,6 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE214572
 
 Due to size, raw files are not included. Download and place them in the `data/` folder as described in `data/README.txt`.
 
----
-
-## ✍️ Author
-
-**Elif Maya Güngör**  
-This project was conducted as part of the *Analyse de données scRNA-seq* course at Sorbonne Université.  
-With contributions from: Clément Marzook Aprohim, Pape Dieng.
-
----
-
 ## 🌱 Status
 
 ✅ Final version — May 2025  
