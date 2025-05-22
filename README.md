@@ -19,8 +19,6 @@ To characterize subpopulations within four known types of CD4+ T cells (Tfh, CD2
 - **Functional Enrichment**: Enrichr via gseapy on GO_Biological_Process_2021
 - **Cell Type Prediction**: Random Forest classifier (accuracy = 85%)
 
----
-
 ## 💡 Tools & Libraries
 
 - Python 3.10  
