@@ -1,0 +1,6 @@
+This notebook requires:
+
+- Python ≥ 3.10
+- scanpy, anndata, pandas, seaborn, matplotlib, scikit-learn, gseapy
+
+All dependencies are listed in the first cells of the notebook.
