@@ -3,13 +3,11 @@
 This project explores the transcriptional heterogeneity of CD4+ T lymphocytes using single-cell RNA sequencing (scRNA-seq) data.  
 Our objective is to identify functional subpopulations within known types of CD4+ T cells and assign biological functions to them using clustering and enrichment analysis.
 
----
 
 ## 🔬 Objective
 
 To characterize subpopulations within four known types of CD4+ T cells (Tfh, CD25^hi Tfh, Tfr, Treg) using scRNA-seq data from the human tonsils of two immunocompetent patients.
 
----
 
 ## 📊 Methodology Summary
 
@@ -28,7 +26,6 @@ To characterize subpopulations within four known types of CD4+ T cells (Tfh, CD2
 - Python 3.10  
 - `scanpy`, `anndata`, `pandas`, `seaborn`, `matplotlib`, `scikit-learn`, `gseapy`
 
----
 
 ## 📁 Folder Structure
 scRNA_CD4_Clustering/
@@ -41,7 +38,6 @@ scRNA_CD4_Clustering/
 ├── .gitignore
 └── requirements.txt
 
----
 
 ## 📥 Data Access
 
