@@ -29,8 +29,6 @@ To characterize subpopulations within four known types of CD4+ T cells (Tfh, CD2
 scRNA_CD4_Clustering/
 ├── data/ # Raw input files (not included in this repo)
 ├── notebooks/ # Main notebook: CD4_clustering.ipynb
-├── results/ # Output figures and analysis visuals
-├── src/ # (Optional) Modular Python scripts
 ├── supplementary/ # Tables and additional materials
 ├── README.md
 ├── .gitignore
